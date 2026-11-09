@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Obsidian workspace & caches (keep plugins/snippets if needed, ignore workspace states)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Temp files
+*.tmp
+*.bak
